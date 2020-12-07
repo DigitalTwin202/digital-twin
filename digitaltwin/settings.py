@@ -29,7 +29,7 @@ SECRET_KEY = '$_34_-8gv&xbmp+nw3m%m$s*6bl65^k*b%7mq1bnsl0x@87@gi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://digital-twin-202.herokuapp.com/']
+ALLOWED_HOSTS = ['digital-twin-202.herokuapp.com']
 GOOGLE_MAPS_API_KEY = 'AIzaSyDV7Vig6zG-jJNxlCVCHQUEJ7ooCPHX5kE'
 
 # Application definition
